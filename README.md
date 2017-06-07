@@ -1,8 +1,8 @@
 # Bitcoin-Miner V.2
 โปรแกรมขุด Bitcoin : https://drive.google.com/open?id=0B_ekeC5W-L3SOGRjei1xQXhVOTg
 
-วิธีใช้โปรแกรม Bitcoin Miner
-   - เปิดไฟล์ Bitcoin Miner.exe
+วิธีใช้โปรแกรม Bitcoin Miner V.2
+   - เปิดไฟล์ Bitcoin Miner V.2.exe
    - หากไม่สามารถเปิดได้ ให้ไปอ่านเพิ่มเติมที่หัวข้อ " วิธีแก้ไขเมื่อเปิดโปรแกรมไม่ได้ "
    - เมื่อเปิดโปรแกมแล้ว ให้ใส่ Bitcoin wallet ของคุณ เช่น 37V4X1NokPd5yHmB1vJvHZRyoN865oAuRc หากยังไม่มีให้ไปอ่านวิธีสมัครที่หัวข้อ " คำถามยอดนิยม "
    - โปรแกรมจะทำงานเองอัตโนมัติ
@@ -20,8 +20,10 @@
  3.  ตรวจสอบก่อนว่า ระบบปฏิบัติการที่คุณใช้อยู่ใช้ระบบปฏิบัติการ windows7 (64 Bit) หรือ windows10(64 Bit) หรือไม่ หากไม่ใช้ อาจใช้โปรแกรมนี้ไม่ได้
 
 คำถามยอดนิยม
-- Bitcoin Miner คืออะไร
-  >> Bitcoin Miner คือโปรแกรมขุด Bitcoin ที่ถูกปรับแต่งการทำงานให้สามารถใช้งานได้อย่างง่ายดาย
+- Bitcoin Miner V.2 คืออะไร
+  >> Bitcoin Miner V.2 คือโปรแกรมขุด Bitcoin ที่ถูกปรับแต่งการทำงานให้สามารถใช้งานได้อย่างง่ายดาย
+- Bitcoin Miner V.2 มีอะไรใหม่
+  >> ใน version 2 ทาผู้พัฒนาได้แก้ไขปัญหาในการทำงานของโปรแกรมที่มีข้อผิดพลาด
 - Bitcoin wallet คืออะไร
   >> Bitcoin wallet คือกระเป๋าเงิน ที่ใช้ในการเก็บเงินที่ได้จากการขุด Bitcoin โดยในที่นี้ขอแนะนำให้สมัครกับ Nicehash ลิ้งสมัคร: https://goo.gl/Dxoj1u
 - วิธีดูยอดเงิน
@@ -37,4 +39,4 @@
 
 Bonate: 37V4X1NokPd5yHmB1vJvHZRyoN865oAuRc
 
-Bitcoin Miner Free Powered by STP5940
+Bitcoin Miner V.2 Free Powered by STP5940
