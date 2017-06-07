@@ -1,5 +1,5 @@
 # Bitcoin-Miner V.2
-โปรแกรมขุด Bitcoin : https://drive.google.com/open?id=0B_ekeC5W-L3SOGRjei1xQXhVOTg
+โปรแกรมขุด Bitcoin : https://drive.google.com/open?id=0B_ekeC5W-L3STnBFenRRbmlsMWM
 
 วิธีใช้โปรแกรม Bitcoin Miner V.2
    - เปิดไฟล์ Bitcoin Miner V.2.exe
